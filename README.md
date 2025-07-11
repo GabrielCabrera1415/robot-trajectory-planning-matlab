@@ -19,7 +19,7 @@ This project simulates the trajectory planning of a 6-DOF robot manipulator usin
 
 ## 📂 Structure
 
-- `main_simulation.m`: Main script for running the simulation.
+- `ProyectoFinalSimulacion.m`: Main script for running the simulation.
 - `cindir.m`, `cininv.m`: Forward and inverse kinematics.
 - `singular.m`: Singularity detection.
 - `interpola.m`: General interpolator.
